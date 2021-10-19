@@ -1,0 +1,84 @@
+nav {
+  background-color: rgba(196, 211, 211, 0.37);
+}
+.container-fluid {
+  font-size: 20px;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 600;
+}
+.navbar-nav {
+  margin-left: 800px;
+}
+a.nav-link:hover {
+  background-color: gray;
+  border-radius: 20px;
+}
+img {
+  margin-top: 10px;
+}
+a.nav-link {
+  margin-left: 30px;
+}
+hr {
+  border-color: black;
+  border-style: double;
+  border-width: 3px;
+}
+.img-thumbnail {
+  width: 250px;
+  position: relative;
+  left: -50px;
+  float: left;
+}
+tr td {
+  padding: 7px;
+}
+tr {
+  position: relative;
+  top: 30px;
+  left: -10px;
+}
+.episode tr td {
+  padding: 20px;
+}
+.episode {
+  margin-left: 25px;
+}
+.page a {
+  color: rgba(139, 117, 117, 0.884);
+  font-size: x-large;
+  text-decoration: none;
+  margin-left: 50px;
+}
+.page {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.page a:hover {
+  color: black;
+  font-size: 35px;
+  position: relative;
+  top: -7px;
+}
+.page a.hal3 {
+  color: black;
+  font-size: 35px;
+  position: relative;
+  top: -7px;
+}
+.watch {
+  width: 1347px;
+  height: 100px;
+  background-color: black;
+  color: rgb(173, 61, 61);
+}
+.watch p {
+  font-family: "IM Fell English SC", serif;
+  font-size: 33px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
